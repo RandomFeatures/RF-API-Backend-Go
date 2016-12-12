@@ -1,2 +1,2 @@
 # RF-API-Backend-Go
-Go version of the backend for the Random Features website
+Fairly simple REST API written in GO. You will find examples of working with routes, parsing and returning JSON data, and logging error messages.
